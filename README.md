@@ -31,6 +31,10 @@ border: initial;
 background-color: initial;
 }
 
+background pick some blue in gray, black to make it look cooler. common design.
+
+defaut in blcok level like div, will take up all the width.
+
 2. Layouts: layouts are the triky parts in CSS. will use Flexbox to implement simple and complex layouts
 
 3. CSS Reset: implement a simple CSS reset to remove unwanted dafault styeing form browser
